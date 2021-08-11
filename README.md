@@ -13,5 +13,11 @@ https://www.youtube.com/channel/UClgoE54W_4rX7jzZGiCmrXw<br /><br />
 <img src="https://user-images.githubusercontent.com/42749141/128983672-4c22b7fd-96e9-4ce2-8c64-99bddbff0bfd.png" width=100%><br />
 
 **How To Use:**<br />
-Fully Customizable in the Material Inspector.<br />
+ - Download the Shader Graph and Scripts Folders.<br />
+ - Make a Material using the **Zelda Toon Shader** shader.<br />
+ - Apply the material to your model.<br />
+
+Fully Customizable in the Material Inspector.<br /><br />
+
+NOTE:<br />
 Make Different Materials for different parts of your model as it uses SharedMesh.<br />

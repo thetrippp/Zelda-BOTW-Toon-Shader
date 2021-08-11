@@ -12,6 +12,6 @@ https://www.youtube.com/channel/UClgoE54W_4rX7jzZGiCmrXw<br /><br />
 **Lit with additional Point Light<br />**
 <img src="https://user-images.githubusercontent.com/42749141/128983672-4c22b7fd-96e9-4ce2-8c64-99bddbff0bfd.png" width=100%><br />
 
-Make a Material using the Zelda Toon Shader.<br />
+**How To Use:**<br />
 Fully Customizable in the Material Inspector.<br />
 Make Different Materials for different parts of your model as it uses SharedMesh.<br />

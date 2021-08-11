@@ -6,3 +6,6 @@ Followed Daniel Illet's Tutorial.
 https://www.youtube.com/watch?v=lUmRJRrZfGc<br />
 Check out his other stuff.
 https://www.youtube.com/channel/UClgoE54W_4rX7jzZGiCmrXw<br /><br />
+
+Lit with Directional Light
+!(https://github.com/tripwire1374/Zelda-BOTW-Toon-Shader/blob/main/Images/Toon%20Shader.png?raw=true)

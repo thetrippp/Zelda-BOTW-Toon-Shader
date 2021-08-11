@@ -21,3 +21,6 @@ Fully Customizable in the Material Inspector.<br /><br />
 
 NOTE:<br />
 Make Different Materials for different parts of your model as it uses SharedMesh.<br />
+
+**EXTRA**<br />
+**BOTW Link Model from SketchFab:** https://sketchfab.com/3d-models/link-breath-of-the-wild-8fb09ce90277471ca51c83b95c916b33

@@ -8,9 +8,8 @@ https://www.youtube.com/watch?v=lUmRJRrZfGc<br />
 https://www.youtube.com/channel/UClgoE54W_4rX7jzZGiCmrXw<br /><br />
 
 **Lit with Directional Light<br />**
+<img src="https://user-images.githubusercontent.com/42749141/129150758-71635a39-84c1-4b4c-8bb8-8d1952bddd28.png" width=100%><br />
 <img src="https://user-images.githubusercontent.com/42749141/129150680-277db3a8-52ca-417b-a6f2-3d5a477c0caf.png" width=100%><br />
-**Lit with additional Point Light<br />**
-<img src="https://user-images.githubusercontent.com/42749141/128983672-4c22b7fd-96e9-4ce2-8c64-99bddbff0bfd.png" width=100%><br />
 
 **How To Use:**<br />
  - Download the Shader Graph and Scripts Folders.<br />
